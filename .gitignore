@@ -1,0 +1,7 @@
+.env
+**/__pycahce__/
+bin
+include
+lib
+lib64
+pyvenv.cfg
